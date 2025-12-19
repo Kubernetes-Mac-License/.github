@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="1080" alt="Kubernetes Screenshot"/>  
+  <img src="https://aptakube.com/_next/static/media/hero.d3e260e0.jpg" width="1080" alt="Kubernetes Screenshot"/>  
 </div>  
 
 <br>  
